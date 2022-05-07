@@ -9,7 +9,7 @@ params:
         Title: Rui
         Content: The world means nothing to me without you
     customcss:
-        - "css/blog.css"
+        - "/blog/css/blog.css"
     customjscssraw:
         - "<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/all.min.css' integrity='sha256-2H3fkXt6FEmrReK448mDVGKb3WW2ZZw35gI7vqHOE4Y=' crossorigin='anonymous'>"
         - >
