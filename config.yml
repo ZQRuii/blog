@@ -1,0 +1,20 @@
+baseURL: https://ZQRuii.github.io/blog
+languageCode: en-us
+title: ZQRui
+theme: "sakura"
+params:
+    defaultTheme: auto
+    disableThemeToggle: true
+    homeInfoParams:
+        Title: Rui
+        Content: The world means nothing to me without you
+    # socialIcons: # optional
+    #     - name: "<platform>"
+    #         url: "<link>"
+    #     - name: "<platform 2>"
+    #         url: "<link2>"
+deploy:
+    type: git
+    # repo: http://github.com/ZQRuii/ZQRuii.github.io
+    branch: main
+    message: "Site updated:{{ now('YYYY-MM-DD HH:mm:ss') }}"
