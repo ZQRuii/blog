@@ -84,6 +84,7 @@ social:
 #social  url, img 移动端配置
 msocial:
   github: {url: http://github.com/xbclub, fa: fa-github, color: 333}
+#  weibo: {url: http://weibo.com/mashirozx?is_all=1, fa: fa-weibo, color: dd4b39}
   qq: {url: https://wpa.qq.com/msgrd?v=3&uin=525255289&site=qq&menu=yes, fa: fa-qq, color: 25c6fe}
 
 donate:
@@ -133,3 +134,9 @@ gray: false
 
 #剪贴板版权
 clipboards: false
+
+deploy:
+    type: git
+    # repo: http://github.com/ZQRuii/ZQRuii.github.io
+    branch: main
+    message: "Site updated:{{ now('YYYY-MM-DD HH:mm:ss') }}"

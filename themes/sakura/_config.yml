@@ -134,3 +134,9 @@ gray: false
 
 #剪贴板版权
 clipboards: false
+
+deploy:
+    type: git
+    # repo: http://github.com/ZQRuii/ZQRuii.github.io
+    branch: main
+    message: "Site updated:{{ now('YYYY-MM-DD HH:mm:ss') }}"
