@@ -13,3 +13,8 @@ params:
     #         url: "<link>"
     #     - name: "<platform 2>"
     #         url: "<link2>"
+deploy:
+    type: git
+    repo: http://github.com/ZQRuii/ZQRuii.github.io
+    branch: main
+    message: "Site updated:{{ now('YYYY-MM-DD HH:mm:ss') }}"
