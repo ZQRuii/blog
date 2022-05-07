@@ -8,6 +8,19 @@ params:
     homeInfoParams:
         Title: Rui
         Content: The world means nothing to me without you
+    customcss:
+        - "css/blog.css"
+    customjscssraw:
+        - "<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/all.min.css' integrity='sha256-2H3fkXt6FEmrReK448mDVGKb3WW2ZZw35gI7vqHOE4Y=' crossorigin='anonymous'>"
+        - >
+        <script async src='https://www.googletagmanager.com/gtag/js?id=G-XXX'></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-XXX');
+        </script>
     # socialIcons: # optional
     #     - name: "<platform>"
     #         url: "<link>"
