@@ -1,3 +1,6 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "Hexo-theme-sakura"]
+	path = Hexo-theme-sakura
+	url = https://github.com/xbclub/Hexo-theme-sakura
