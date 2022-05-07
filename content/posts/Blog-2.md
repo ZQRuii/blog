@@ -2,6 +2,19 @@
 title: "Blog-2"
 date: 2022-05-07T15:54:14+08:00
 draft: false
+author: ZQRui
+avatar: https://static.acgso1.com/uploads/2018/08/5beff457f7ba1f3d0ae0da9b6a566412.jpg
+authorLink:
+authorAbout: 
+authorDesc: 
+categories: 日常
+comments: true
+tags: 
+ - web
+keywords: Blog-2
+description: Blog-2
+photos: https://static.acgso1.com/uploads/2018/08/5beff457f7ba1f3d0ae0da9b6a56641
+​---
 ---
 
 

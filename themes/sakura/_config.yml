@@ -17,9 +17,9 @@ lazyloadImg: https://cdn.jsdelivr.net/gh/xbclub/imageCDN//upload/20200306164050.
 #seo优化设定
 seo:
   #网站简介
-  description: 42cloud 是一个有意思的空间
+  description: ZQRuii 是一个有意思的空间
   #关键词
-  keywords: 42team,42cloud,Linux,Python,Java,C++,漫画,Sakura
+  keywords: Rui
 menus:
   首页: { path: /, fa: fa-fort-awesome faa-shake }
   # 清单: { path: javascript:;, fa: fa-list-ul faa-vertical, submenus: {
