@@ -10,8 +10,8 @@ draft: false
 
 放一放好看的小姐姐！
 
-![bg](/images/RealBg.jpg)
+![bg](/blog/images/RealBg.jpg)
 
-![avatar](/images/avatar.jpg)
+![avatar](/blog/images/avatar.jpg)
 
 诶嘿嘿 都是我的~

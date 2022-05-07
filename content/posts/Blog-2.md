@@ -10,7 +10,7 @@ draft: false
 
 今天是熊熊生日，先祝wuli熊熊生日快乐呀！熊熊是全天下最可爱的女孩子了呢！
 
-![Rita](/images/Rita.webp)
+![Rita](/blog/images/Rita.webp)
 
 放一只丽塔酱，老婆最sexy啦~怎么会有人能抵抗失落迷迭的呀！
 
