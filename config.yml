@@ -7,9 +7,8 @@ params:
     disableThemeToggle: true
     homeInfoParams:
         Title: Rui
-        Content: The world means nothing to me without you
-    customCSS:
-        - "/css/blog.css"
+        Content: The world means nothing to me without youparams:
+    customCSS: true
     # socialIcons: # optional
     #     - name: "<platform>"
     #         url: "<link>"

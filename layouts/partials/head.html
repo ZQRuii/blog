@@ -160,6 +160,7 @@ fingerprint }}
 {{- template "partials/templates/schema_json.html" . }}
 {{- end }}
 
-{{ range .Site.Params.customCSS }}
-<link rel="stylesheet" href="{{ . | relURL }}">
+{{ if .Site.Params.customCSS }}
+{{ $style := resources.Match "css/**.css" | resources.Concat "custom.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
 {{ end }}
